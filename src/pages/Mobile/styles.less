@@ -1,0 +1,43 @@
+.mobile {
+  font-size: 16px;
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+
+  .button {
+    width: 100%;
+  }
+
+  .movie {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    justify-content: space-between;
+
+    .title {
+      padding: 0;
+      margin: 0;
+      display: flex;
+      align-items: center;
+      flex-basis: 70%;
+      overflow: hidden;
+      white-space:nowrap;
+      text-overflow:ellipsis;
+    }
+
+    a {
+      margin-left: 10px;
+    }
+
+    span {
+      color: #a80404;
+      cursor: pointer;
+
+      &:active {
+        color: #bb7070;
+      }
+    }
+  }
+}

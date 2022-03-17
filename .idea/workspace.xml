@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d75816ca-4ccd-47d8-832b-f4d53bb46ba6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="26Ptmwc9fFERUIZfnSiIgCDoHf5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d75816ca-4ccd-47d8-832b-f4d53bb46ba6" name="Default Changelist" comment="" />
+      <created>1647337211586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647337211586</updated>
+      <workItem from="1647337213002" duration="127000" />
+      <workItem from="1647337347261" duration="860000" />
+      <workItem from="1647338227621" duration="2059000" />
+      <workItem from="1647346629077" duration="3921000" />
+      <workItem from="1647351351375" duration="1291000" />
+      <workItem from="1647352654953" duration="3111000" />
+      <workItem from="1647394511961" duration="2090000" />
+      <workItem from="1647397188480" duration="3366000" />
+      <workItem from="1647400672003" duration="1004000" />
+      <workItem from="1647401699924" duration="2961000" />
+      <workItem from="1647413941086" duration="938000" />
+      <workItem from="1647416068425" duration="1357000" />
+      <workItem from="1647422852642" duration="5000" />
+      <workItem from="1647477705742" duration="46000" />
+      <workItem from="1647477786472" duration="94000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="282" width="600" height="486" key="find.popup" timestamp="1647400795609">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="540" y="282" width="600" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1647400795609" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1647351508330">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1647351508330" />
+  </component>
+</project>
